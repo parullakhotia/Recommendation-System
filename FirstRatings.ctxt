@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=FirstRatings
+comment1.params=filename
+comment1.target=java.util.ArrayList\ loadMovies(java.lang.String)
+comment1.text=private\ static\ final\ String\ MOVIE_ID\ \=\ "id";\r\n\ \ \ \ private\ static\ final\ String\ MOVIE_TITLE\ \=\ "title";\r\n\ \ \ \ private\ static\ final\ String\ MOVIE_YEAR\ \=\ "year";\r\n\ \ \ \ private\ static\ final\ String\ MOVIE_COUNTRY\ \=\ "country";\ \r\n\ \ \ \ private\ static\ final\ String\ MOVIE_GENRE\ \=\ "genre";\r\n\ \ \ \ private\ static\ final\ String\ MOVIE_DIRECTOR\ \=\ "director";\r\n\ \ \ \ private\ static\ final\ String\ MOVIE_MINUTES\ \=\ "minutes";\r\nprivate\ static\ final\ String\ MOVIE_POSTER\ \=\ "poster";
+comment2.params=
+comment2.target=void\ testLoadMovies()
+comment3.params=filename
+comment3.target=java.util.ArrayList\ loadRaters(java.lang.String)
+comment4.params=
+comment4.target=void\ testLoadRaters()
+numComments=5
